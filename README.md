@@ -12,8 +12,12 @@ This app uses context API to store the to-do list globally and pass it down to t
 
 ## Screenshots
 1. Initial Render
-2. 
+
     <img width="1420" alt="Screenshot 2022-05-26 at 5 19 44 PM" src="https://user-images.githubusercontent.com/49080591/170482948-f061d3aa-e8b3-4af5-8185-72d101600123.png">
+    
+    
+    
+    
     
 2. Adding a to-do item
 
@@ -21,6 +25,10 @@ This app uses context API to store the to-do list globally and pass it down to t
     
     
 <img width="1420" alt="Screenshot 2022-05-26 at 5 24 51 PM" src="https://user-images.githubusercontent.com/49080591/170483239-80330f14-4de2-470b-acf6-efd82b462cd2.png">
+
+
+
+
 
 3. Removing a todo item
 
