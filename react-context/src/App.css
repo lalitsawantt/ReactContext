@@ -1,0 +1,58 @@
+*,
+*::after,
+*::before {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body {
+  position: relative;
+  background-color: rgb(255, 224, 229);
+}
+h1 {
+  text-align: center;
+  margin-top: 20px;
+  color: rgb(36, 6, 3);
+}
+form {
+  position: fixed;
+  bottom: 500px;
+  right: 30%;
+  left: 30%;
+  border-radius: 8px;
+  border: 2px solid rgb(66, 66, 180);
+  color: #000;
+  box-shadow: 0 2px 4px 4px rgba(0, 0, 0, 0.5);
+}
+
+.items {
+  position: fixed;
+  top: 50px;
+  right: 30%;
+  left: 30%;
+  border-radius: 8px;
+}
+
+.listitems{
+  margin-top: 15rem;
+  max-height: 20rem;
+  overflow-y: auto;
+}
+
+.todo{
+  margin-bottom: 1rem;
+}
+.float-right{
+  display: flex;
+  float: right;
+}
+
+.form-group {
+  margin-bottom: 0;
+}
+
+.completedTodo {
+  background-color: darkgray;
+  text-decoration: line-through;
+}
